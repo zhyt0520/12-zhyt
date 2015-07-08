@@ -25,11 +25,9 @@ get_header(); ?>
 		echo '<tr>';
 		echo '<td class="allpsot-td" width="40">'.$published_posts.'</td>';
 		echo '<td  class="allpsot-td" width="130">'; the_time(get_option( 'date_format' ));
-		echo '</td>
-		<td><a href="'; the_permalink();
+		echo '</td><td><a target="_blank" href="'; the_permalink();
 		echo '" title="'.esc_attr( get_the_title() ).'">'; the_title();
-		echo '</a></td>
-		</tr>'; 
+		echo '</a></td></tr>'; 
 		$published_posts--;
 	endwhile; 
 	wp_reset_query(); ?>
