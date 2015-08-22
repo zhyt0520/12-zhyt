@@ -15,7 +15,7 @@
 			<?php do_action( 'twentytwelve_credits' ); ?>
 			<p style="display:inline;">Copyright &copy 2013-2015 <a href="http://aword.net">一语-aword</a></p>
 			<p style="display:inline;margin-left:14px;">可切换至<a href="?am_force_theme_layout=mobile">简版</a></p>
-			<p style="display:inline;margin-left:14px;" title="两个优惠码：25%OffForFrist和15%OffForever">推荐<a href="https://my.laoxuehost.net/aff.php?aff=1844">老薛主机</a></p>
+			<p style="display:inline;margin-left:14px;" title="两个优惠码：25%OffForFrist和15%OffForever">推荐<a href="https://my.laoxuehost.net/aff.php?aff=1844" target="_blank">老薛主机</a></p>
 			<p style="display:inline;float:right;"><a style="cursor:pointer; "onclick="scroll(0,0)">回顶部↑</a></p>
 		</div><!-- .site-info -->
 		<script>
