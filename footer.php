@@ -17,7 +17,7 @@
 			<p style="display:inline;margin-left:14px;">可切换至 <a href="?am_force_theme_layout=mobile">简版</a></p>
 			<p style="display:inline;margin-left:14px;" title="两个优惠码：25%OffForFrist和15%OffForever">推荐 <a href="https://my.laoxuehost.net/aff.php?aff=1844" target="_blank">老薛主机</a></p>
 			<p style="display:inline;float:right;margin-left:14px;"><a style="cursor:pointer; "onclick="scroll(0,0)">回顶部↑</a></p>
-			<p style="display:inline;float:right;"><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5165710'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s6.cnzz.com/stat.php%3Fid%3D5165710%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script></p>
+			<!-- <p style="display:inline;float:right;"><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5165710'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s6.cnzz.com/stat.php%3Fid%3D5165710%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script></p> -->
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
