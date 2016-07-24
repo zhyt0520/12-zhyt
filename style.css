@@ -1648,3 +1648,9 @@ img#wpstats {
 .nav-single {
 	margin-bottom: 21px;
 }
+#shadow-root div div div a{
+	display:none;
+}
+p.ds-powered-by{
+	display:none;
+}
